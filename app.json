@@ -1,7 +1,7 @@
 {
-  "name": "DojoApp",
+  "name": "AnalyticsDojo",
   "description": "An open-source analytics app built with Meteor and React",
-  "repository": "https://github.com/TelescopeJS/sample-project/",
+  "repository": "https://github.com/jkuruzovich/AnalyticsDojo-React/",
   "logo": "http://www.telescopeapp.org/images/logo.png",
   "keywords": ["meteor", "social", "community"],
   "env": {
