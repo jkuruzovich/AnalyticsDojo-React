@@ -1,9 +1,13 @@
-# Simple Todo List
+A sample Telescope project. Install [Meteor](http://meteor.com), clone this repository locally and then run the app with:
 
-The Meteor Tutorial app.
+```
+meteor
+```
 
-Use it to share a single todo list with your friends. The list updates on everyone's screen in real time, and you can make tasks private if you don't want others to see them.
+### One-Click Deploy
 
-Learn how to build this app by following the [Meteor Tutorial](http://www.meteor.com/install).
+Deploy on Heroku:
 
-![screenshot](screenshot.png)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
+Note: if you get a `$ROOT_URL, if specified, must be an URL.` error on deployment, double-check that you're providing the correct URL (typically `http://your-app-name-here.herokuapp.com`).
